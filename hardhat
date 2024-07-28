@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit Swistronik Winsnip 01"
+git remote add origin https://czzv@github.com/Hardhat/Swisstronik-01.git
+git branch -M main
+git push -u origin main
